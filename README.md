@@ -1,2 +1,2 @@
 # control01_A
-cmd
+## a app like "cmd"
