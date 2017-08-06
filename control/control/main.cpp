@@ -13,11 +13,9 @@ int main(int argc, char* argv[])
 
 	//name?
 	printf("computer  >What your name?");
-
 	char name[] = "Bob";
 	printf("\nusers  >");
 	scanf("%s", &name);
-
 	printf("\ncomputer  >Hello %s\n", name);
 
 	//theme
@@ -48,10 +46,10 @@ int main(int argc, char* argv[])
 
 	cout << "\ncomputer  >Try help!" << endl;
 
-	//用户输入
+	//脫脙禄搂脢盲脠毛
 	char input[] = { 0 };
 
-	//无限循环
+	//脦脼脧脼脩颅禄路
 	while (1)
 	{
 		Sleep(500);
@@ -126,7 +124,7 @@ int main(int argc, char* argv[])
 		//BadInput
 		else
 		{
-			cout << "\acomputer  >Bad input！\n";
+			cout << "\acomputer  >Bad input拢隆\n";
 		}
 	}
 	return 0;
